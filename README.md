@@ -7,7 +7,7 @@ Each directory contains a django application.
 1. You need python to be installed on your device already!
 2. Clone the directory on your device using:
 ```bash
-https://github.com/amir-laal-mousavi/DjangoRestFramework.github.io.git
+https://github.com/amir-laal-mousavi/DjangoRestFramework.git
 ```
 3. Open terminal and change directory to application's directory.
 4. ATTENTION: Some applications contain main directory inside first directory, You need to open main directory!
